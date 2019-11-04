@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FRQ3
+comment0.text=\r\n\ Asks\ user\ to\ enter\ temperature\ for\ 12\ months\ and\ compares\ them\r\n\ to\ find\ the\ highest\ temperature\ and\ what\ month\ it\ is\ from.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @12/28/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

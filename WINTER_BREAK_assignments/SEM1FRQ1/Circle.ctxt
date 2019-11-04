@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Circle\ class\ simulates\ a\ circle,\ with\ a\ radius\ and\ color.\r\n\ gives\ methods\ to\ change\ color\ and\ radius\ and\ get\ it.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @12/28/18\r\n
+comment1.params=
+comment1.target=Circle()
+comment2.params=radius
+comment2.target=Circle(double)
+comment3.params=radius\ color
+comment3.target=Circle(double,\ java.lang.String)
+comment4.params=
+comment4.target=double\ getRadius()
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=radius
+comment7.target=void\ setRadius(double)
+comment8.params=color
+comment8.target=void\ setColor(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

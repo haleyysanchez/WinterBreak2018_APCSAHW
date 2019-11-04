@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DieTester
+comment0.text=\r\n\ Die\ class\ simulates\ die\ rolling\ nad\ can\ display\ it\ and\ manipulate\ it.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ 12/28/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
